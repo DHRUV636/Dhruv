@@ -1,0 +1,19 @@
+<html>
+<head>
+<title My Web page></title>
+<body>
+<p> Whats up guys welcome Back to my Web Page.Today we are going to learn about the
+basics of html and so lets get started in the video</p>
+
+<b> This is My fried Jeremy and Dhruv i hope u have met each other until now</b>
+
+<u> I love you </i>
+
+<h1> Hello Guys welcome back to the channel </h1>
+
+
+
+</head>
+</body>
+
+</html>
